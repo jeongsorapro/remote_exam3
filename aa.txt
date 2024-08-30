@@ -1,9 +1,8 @@
 idlfkdfkdlkfjsdfsdf
 여기는 로컬에서 수정한 부분입니다.
 dfdfdfs
-=======
-sdsdfsd
-sddf
-9990
-dfjkdjfkd
+<<<<<<<
 >>>>>>> 3200ec62f36008063ed76f10a00e260e967742e1
+=======
+성빈이가 수정합니다.
+>>>>>>> 450aaf7bced59957ab7565d0be238ce63202818f
